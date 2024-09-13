@@ -6,7 +6,7 @@ apt-get upgrade
 
 # get software
 apt-get install \
-	unclutter \
+    unclutter \
     xorg \
     xserver-xorg-video-fbdev \
     xinit \
